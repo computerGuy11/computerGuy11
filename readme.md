@@ -5,10 +5,16 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/khalil-t-19aa42191/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    
   </a>
-  
+   <a href="wa.link/0h3441">
+    <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="What's App Badge"/>
+  </a>
+   <a href="mailto:khalil.1@aol.com">
+    <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=mail&logoColor=black" alt="LinkedIn Badge"/>
+  </a>
   </div>
-<img src="https://komarev.com/ghpvc/?username=computerGuy11&style=flat-square&color=blue" alt=""/>
+<img align='center' src="https://komarev.com/ghpvc/?username=computerGuy11&style=flat-square&color=blue" alt=""/>
 
   
   <h1 align='center'>
@@ -23,13 +29,15 @@ HELLO FOLKS
 
 
 ### :man_technologist:  About me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Algeria 
+I am a Full Stack Developer :keyboard: from Algeria 
 
-- :telescope: Eager to learn any new stuff on full stack web dev
+- :desktop_computer: Eager to learn any new stuff on full stack web dev
 
-- :seedling: Exploring Data Science field and AI
+- :flashlight: Exploring Data Science field and AI
 
-- :zap: In my free time, I solve problems  and read tech articles , and just code more .
+- :large_blue_diamond: In my free time, I solve problems , read tech articles , and just code more .
+
+- : 
 
 ### :hammer_and_wrench: Languages and Tools :
 
