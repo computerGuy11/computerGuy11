@@ -15,7 +15,7 @@
   
 </h1>
 <div align="center">
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" height ="600"/>
+<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="600" height ="300"/>
 </div>
 
 
