@@ -16,7 +16,7 @@
   </div>
   
   
-<img align='center' src="https://komarev.com/ghpvc/?username=computerGuy11&style=flat-square&color=blue" alt=""/>
+
 
   
   <h1 align='center'>
