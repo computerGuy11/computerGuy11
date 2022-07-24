@@ -39,7 +39,7 @@ I am a Full Stack Developer :keyboard: from Algeria
 
 - :large_blue_diamond: In my free time, I solve problems , read tech articles , and just code more .
 
-- : 
+- :email: you can email me here <a href="mailto:khalil.1@aol.com"> EMAIL </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
