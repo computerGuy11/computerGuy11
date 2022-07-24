@@ -10,12 +10,12 @@
 
 
   
-  <h1>
-  hello folks
+  <h1 align='center'>
+HELLO FOLKS
   
 </h1>
 <div align="center">
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="600" height ="300"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height ="400"/>
 </div>
 
 
@@ -54,6 +54,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=computerGuy11&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### :fire: My Top langs :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=computerGuy11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
