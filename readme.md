@@ -7,13 +7,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     
   </a>
-   <a href="wa.link/0h3441">
+   <a href="https://api.whatsapp.com/send?phone=213556494875&text=hello%20nice%20to%20hear%20that%20you%20want%20text%20me%20">
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="What's App Badge"/>
   </a>
    <a href="mailto:khalil.1@aol.com">
     <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=mail&logoColor=black" alt="LinkedIn Badge"/>
   </a>
   </div>
+  
+  
 <img align='center' src="https://komarev.com/ghpvc/?username=computerGuy11&style=flat-square&color=blue" alt=""/>
 
   
