@@ -24,7 +24,7 @@ HELLO FOLKS
   
 </h1>
 <div align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600" height ="400"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" height ="200"/>
 </div>
 
 
