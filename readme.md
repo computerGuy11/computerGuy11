@@ -11,7 +11,10 @@
     <img src="https://img.shields.io/badge/whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="What's App Badge"/>
   </a>
    <a href="mailto:khalil.1@aol.com">
-    <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=mail&logoColor=black" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=mail&logoColor=black" alt="mail Badge"/>
+  </a>
+   <a href="https://khalil-tahraoui.netlify.app/">
+    <img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=portfolio&logoColor=black" alt="portfolio Badge"/>
   </a>
   </div>
   
