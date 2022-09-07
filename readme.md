@@ -16,6 +16,9 @@
    <a href="https://estateemp.netlify.app/">
     <img src="https://img.shields.io/badge/last_work-black?style=for-the-badge&logo=last_work&logoColor=white" alt="last work Badge"/>
   </a>
+<a href="https://khaliltahraoui.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-black?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   </div>
   
   
