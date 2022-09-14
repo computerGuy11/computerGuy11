@@ -69,7 +69,7 @@ I am a Full Stack Developer :keyboard: from Algeria
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=computerGuy11&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=computerGuy11&theme=dark&background=313638)](https://git.io/streak-stats)
 
 ### :fire: My Top langs :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=computerGuy11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
